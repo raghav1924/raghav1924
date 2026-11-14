@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="384" height="424" viewBox="0 0 384 424" fill="none" role="img">
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif}
+.m{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace}
+@keyframes rise{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:translateY(0)}}
+.rise{animation:rise .8s cubic-bezier(.2,.7,.2,1) both}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+
+@keyframes pulse{0%,100%{opacity:.9;transform:scale(1)}50%{opacity:.2;transform:scale(2.3)}}
+.ring{transform-box:fill-box;transform-origin:center;animation:pulse 2.2s ease-in-out infinite}
+</style>
+<defs><radialGradient id="lg" cx="100%" cy="0%" r="90%"><stop offset="0" stop-color="#8ab4ff" stop-opacity=".22"/><stop offset="1" stop-color="#8ab4ff" stop-opacity="0"/></radialGradient><linearGradient id="edge" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".30"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient></defs>
+<rect x=".5" y=".5" width="383" height="423" rx="26" fill="#0e0e11" stroke="#25252c"/>
+<rect x=".5" y=".5" width="383" height="423" rx="26" fill="url(#lg)"/>
+<rect x="26" y="1" width="332" height="1" fill="url(#edge)"/>
+<rect x="32" y="30" width="246" height="28" rx="14" fill="#8ab4ff" fill-opacity=".10" stroke="#8ab4ff" stroke-opacity=".35"/>
+<circle class="ring" cx="47" cy="44" r="3.5" fill="#8ab4ff"/><circle cx="47" cy="44" r="3.5" fill="#8ab4ff"/>
+<text class="m" x="60" y="48.5" font-size="12.5" letter-spacing="1.4" fill="#8ab4ff">LIVE · AI MICRO-SAAS</text>
+<circle cx="334" cy="44" r="18" fill="#ffffff" fill-opacity=".04" stroke="#34343d"/>
+<path d="M328 50 L340 38 M331 38 L340 38 L340 47" stroke="#fafafa" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="32" y="112" font-size="30" font-weight="700" letter-spacing="-.6" fill="#fafafa">TryDraftly</text>
+<text x="32" y="150" font-size="16.5" fill="#8b8b96">AI copywriting micro-SaaS with</text>
+<text x="32" y="175" font-size="16.5" fill="#8b8b96">custom context profiles and streamed</text>
+<text x="32" y="200" font-size="16.5" fill="#8b8b96">drafts.</text>
+<text x="32" y="272" font-size="52" font-weight="700" letter-spacing="-1.5" fill="#8ab4ff">&lt;1.2s</text>
+<text x="32" y="300" font-size="16" fill="#8b8b96">avg. streaming completion time</text>
+<rect x="32" y="330" width="95" height="28" rx="14.0" fill="#14141a" stroke="#2a2a33"/><circle cx="47" cy="344.0" r="3.5" fill="#8ab4ff"/><text class="m" x="59" y="348.725" font-size="13.5" fill="#c8c8d0">Next.js</text><rect x="135" y="330" width="103" height="28" rx="14.0" fill="#14141a" stroke="#2a2a33"/><circle cx="150" cy="344.0" r="3.5" fill="#8ab4ff"/><text class="m" x="162" y="348.725" font-size="13.5" fill="#c8c8d0">Supabase</text><rect x="32" y="366" width="120" height="28" rx="14.0" fill="#14141a" stroke="#2a2a33"/><circle cx="47" cy="380.0" r="3.5" fill="#8ab4ff"/><text class="m" x="59" y="384.725" font-size="13.5" fill="#c8c8d0">OpenAI API</text><rect x="160" y="366" width="103" height="28" rx="14.0" fill="#14141a" stroke="#2a2a33"/><circle cx="175" cy="380.0" r="3.5" fill="#8ab4ff"/><text class="m" x="187" y="384.725" font-size="13.5" fill="#c8c8d0">Tailwind</text>
+</svg>

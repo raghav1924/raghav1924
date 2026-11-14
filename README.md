@@ -4,9 +4,13 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/raghav1924"><img src="https://img.shields.io/badge/LinkedIn-raghav1924-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0f0f12" alt="LinkedIn" /></a>
-  <a href="https://raghav1924.netlify.app"><img src="https://img.shields.io/badge/Portfolio-jatinsharma.in-00C7B7?style=flat-square&logo=netlify&logoColor=white&labelColor=0f0f12" alt="Portfolio" /></a>
-  <a href="https://leetcode.com/raghav1924"><img src="https://img.shields.io/badge/LeetCode-raghav1924-FFA116?style=flat-square&logo=leetcode&logoColor=FFA116&labelColor=0f0f12" alt="LeetCode" /></a>
-  <a href="https://github.com/raghav1924"><img src="https://img.shields.io/badge/GitHub-raghav1924-8b8b96?style=flat-square&logo=github&logoColor=white&labelColor=0f0f12" alt="GitHub" /></a>
+  <a href="https://jatinsh.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-jatinsh.netlify.app-00C7B7?style=flat-square&logo=netlify&logoColor=white&labelColor=0f0f12" alt="Portfolio" /></a>
+  <a href="https://jatinsh.netlify.app/resume.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-PDF-EF4444?style=flat-square&logo=adobeacrobatreader&logoColor=white&labelColor=0f0f12" alt="Resume PDF" /></a>
+  <a href="https://api.whatsapp.com/send?phone=919368558623&text=Hi%20Jatin,%20reaching%20out%20from%20your%20GitHub%20profile!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-Chat_Direct-25D366?style=flat-square&logo=whatsapp&logoColor=white&labelColor=0f0f12" alt="WhatsApp" /></a>
+  <a href="https://leetcode.com/u/raghav1924/"><img src="https://img.shields.io/badge/LeetCode-raghav1924-FFA116?style=flat-square&logo=leetcode&logoColor=FFA116&labelColor=0f0f12" alt="LeetCode" /></a>
+  <a href="https://medium.com/@raghavjatin245" target="_blank"><img src="https://img.shields.io/badge/Medium-@raghavjatin245-8b8b96?style=flat-square&logo=medium&logoColor=white&labelColor=0f0f12" alt="Medium" /></a>
+  <a href="https://bsky.app/profile/raghav1924.bsky.social" target="_blank"><img src="https://img.shields.io/badge/Bluesky-raghav1924.bsky.social-0285FF?style=flat-square&logo=bluesky&logoColor=white&labelColor=0f0f12" alt="Bluesky" /></a>
+  <a href="https://github.com/raghav1924"><img src="https://img.shields.io/github/followers/raghav1924?label=Follow&style=flat-square&color=8b8b96&logo=github&labelColor=0f0f12" alt="GitHub Followers" /></a>
   <a href="mailto:raghavjatin245@gmail.com"><img src="https://img.shields.io/badge/Email-raghavjatin245@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=0f0f12" alt="Email" /></a>
   <img src="https://komarev.com/ghpvc/?username=raghav1924&label=Views&color=8ab4ff&style=flat-square&labelColor=0f0f12" alt="Profile views" />
 </p>
@@ -80,7 +84,7 @@ const jatin = {
 </p>
 
 <p align="center">
-  <img width="92%" src="https://github-readme-streak-stats.herokuapp.com/?user=raghav1924&background=09090b&border=25252c&stroke=25252c&ring=8ab4ff&fire=b794f6&currStreakNum=fafafa&sideNums=fafafa&currStreakLabel=8ab4ff&sideLabels=c8c8d0&dates=8b8b96&border_radius=20" alt="Streak stats" />
+  <img width="92%" src="https://streak-stats.demolab.com/?user=raghav1924&background=09090b&border=25252c&stroke=25252c&ring=8ab4ff&fire=b794f6&currStreakNum=fafafa&sideNums=fafafa&currStreakLabel=8ab4ff&sideLabels=c8c8d0&dates=8b8b96&border_radius=20" alt="Streak stats" />
 </p>
 
 <p align="center">
