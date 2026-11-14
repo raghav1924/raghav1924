@@ -97,16 +97,7 @@ const jatin = {
 <img src="./assets/s-activity.svg" alt="05 / Activity" width="100%" />
 
 <p align="center">
-  <img height="190" src="https://github-readme-stats.vercel.app/api?username=raghav1924&show_icons=true&count_private=true&include_all_commits=true&cache_seconds=86400&bg_color=09090b&title_color=8ab4ff&icon_color=b794f6&text_color=c8c8d0&border_color=25252c&border_radius=20" alt="GitHub stats" />
-  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghav1924&layout=compact&langs_count=8&cache_seconds=86400&bg_color=09090b&title_color=8ab4ff&text_color=c8c8d0&border_color=25252c&border_radius=20" alt="Top languages" />
-</p>
-
-<p align="center">
   <img width="92%" src="https://streak-stats.demolab.com/?user=raghav1924&background=09090b&border=25252c&stroke=25252c&ring=8ab4ff&fire=b794f6&currStreakNum=fafafa&sideNums=fafafa&currStreakLabel=8ab4ff&sideLabels=c8c8d0&dates=8b8b96&border_radius=20" alt="GitHub streak stats" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=raghav1924&bg_color=09090b&color=8ab4ff&line=b794f6&point=ffffff&area=true&area_color=8ab4ff&hide_border=true&radius=16&height=300" alt="Contribution graph" />
 </p>
 
 <p align="center">
