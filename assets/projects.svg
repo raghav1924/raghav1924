@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="840" viewBox="0 0 1200 840" fill="none" role="img">
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif}
+.m{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace}
+@keyframes rise{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:translateY(0)}}
+.rise{animation:rise .8s cubic-bezier(.2,.7,.2,1) both}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+
+@keyframes dash{to{stroke-dashoffset:-16}}
+.flow{stroke-dasharray:4 4;animation:dash 1s linear infinite}
+</style>
+<defs><linearGradient id="edge" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".30"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient><radialGradient id="p0" cx="100%" cy="0%" r="90%"><stop offset="0" stop-color="#8ab4ff" stop-opacity=".22"/><stop offset="1" stop-color="#8ab4ff" stop-opacity="0"/></radialGradient><radialGradient id="p1" cx="100%" cy="0%" r="90%"><stop offset="0" stop-color="#b794f6" stop-opacity=".22"/><stop offset="1" stop-color="#b794f6" stop-opacity="0"/></radialGradient><radialGradient id="p2" cx="100%" cy="0%" r="90%"><stop offset="0" stop-color="#34d399" stop-opacity=".22"/><stop offset="1" stop-color="#34d399" stop-opacity="0"/></radialGradient><radialGradient id="p3" cx="100%" cy="0%" r="90%"><stop offset="0" stop-color="#fbbf24" stop-opacity=".22"/><stop offset="1" stop-color="#fbbf24" stop-opacity="0"/></radialGradient><radialGradient id="p4" cx="100%" cy="0%" r="90%"><stop offset="0" stop-color="#fb7185" stop-opacity=".22"/><stop offset="1" stop-color="#fb7185" stop-opacity="0"/></radialGradient></defs>
+<g class="rise" style="animation-delay:0.00s">
+<rect x="0.5" y="0.5" width="719" height="407" rx="26" fill="#0e0e11" stroke="#25252c"/>
+<rect x="0.5" y="0.5" width="719" height="407" rx="26" fill="url(#p0)"/>
+<rect x="26" y="1" width="668" height="1" fill="url(#edge)"/>
+<rect x="32" y="30" width="152" height="28" rx="14" fill="#8ab4ff" fill-opacity=".10" stroke="#8ab4ff" stroke-opacity=".35"/>
+<circle cx="47" cy="44" r="3.5" fill="#8ab4ff"/>
+<text class="m" x="60" y="48.5" font-size="12.5" letter-spacing="1.4" fill="#8ab4ff">AI TOOLING</text>
+<text x="32" y="108" font-size="30" font-weight="700" letter-spacing="-.6" fill="#fafafa">DevBRD</text>
+<text x="32" y="146" font-size="16.5" fill="#8b8b96">Converts BRDs (PDF, Excel, DOCX, images) into</text>
+<text x="32" y="171" font-size="16.5" fill="#8b8b96">working schemas and UI components.</text>
+<text x="688" y="118" font-size="76" font-weight="700" letter-spacing="-2.5" text-anchor="end" fill="#8ab4ff">−68%</text>
+<text x="688" y="152" font-size="16" text-anchor="end" fill="#8b8b96">less manual effort,</text>
+<text x="688" y="174" font-size="16" text-anchor="end" fill="#8b8b96">embedded in dev onboarding</text>
+<rect x="32" y="236" width="88" height="38" rx="12" fill="#14141a" stroke="#2a2a33"/>
+<text class="m" x="76.0" y="260.5" font-size="14" text-anchor="middle" fill="#c8c8d0">BRD.pdf</text>
+<line class="flow" x1="126" y1="255" x2="154" y2="255" stroke="#8ab4ff" stroke-width="1.6"/>
+<path d="M150 250 L156 255 L150 260" stroke="#8ab4ff" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="162" y="236" width="114" height="38" rx="12" fill="#14141a" stroke="#2a2a33"/>
+<text class="m" x="219.0" y="260.5" font-size="14" text-anchor="middle" fill="#c8c8d0">schema.gql</text>
+<line class="flow" x1="282" y1="255" x2="310" y2="255" stroke="#8ab4ff" stroke-width="1.6"/>
+<path d="M306 250 L312 255 L306 260" stroke="#8ab4ff" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="318" y="236" width="97" height="38" rx="12" fill="#14141a" stroke="#2a2a33"/>
+<text class="m" x="366.5" y="260.5" font-size="14" text-anchor="middle" fill="#c8c8d0">&lt;Form /&gt;</text>
+<rect x="32" y="350" width="136" height="28" rx="14.0" fill="#14141a" stroke="#2a2a33"/><circle cx="47" cy="364.0" r="3.5" fill="#8ab4ff"/><text class="m" x="59" y="368.725" font-size="13.5" fill="#c8c8d0">Azure OpenAI</text><rect x="176" y="350" width="95" height="28" rx="14.0" fill="#14141a" stroke="#2a2a33"/><circle cx="191" cy="364.0" r="3.5" fill="#8ab4ff"/><text class="m" x="203" y="368.725" font-size="13.5" fill="#c8c8d0">GraphQL</text><rect x="279" y="350" width="95" height="28" rx="14.0" fill="#14141a" stroke="#2a2a33"/><circle cx="294" cy="364.0" r="3.5" fill="#8ab4ff"/><text class="m" x="306" y="368.725" font-size="13.5" fill="#c8c8d0">Next.js</text><rect x="382" y="350" width="95" height="28" rx="14.0" fill="#14141a" stroke="#2a2a33"/><circle cx="397" cy="364.0" r="3.5" fill="#8ab4ff"/><text class="m" x="409" y="368.725" font-size="13.5" fill="#c8c8d0">Node.js</text>
+</g>
+<g class="rise" style="animation-delay:0.10s">
+<rect x="744.5" y="0.5" width="455" height="407" rx="26" fill="#0e0e11" stroke="#25252c"/>
+<rect x="744.5" y="0.5" width="455" height="407" rx="26" fill="url(#p1)"/>
+<rect x="770" y="1" width="404" height="1" fill="url(#edge)"/>
+<rect x="776" y="30" width="199" height="28" rx="14" fill="#b794f6" fill-opacity=".10" stroke="#b794f6" stroke-opacity=".35"/>
+<circle cx="791" cy="44" r="3.5" fill="#b794f6"/>
+<text class="m" x="804" y="48.5" font-size="12.5" letter-spacing="1.4" fill="#b794f6">MICRO-FRONTENDS</text>
+<text x="776" y="108" font-size="30" font-weight="700" letter-spacing="-.6" fill="#fafafa">Nexus</text>
+<text x="776" y="146" font-size="16.5" fill="#8b8b96">Internal micro-frontend component library</text>
+<text x="776" y="171" font-size="16.5" fill="#8b8b96">with plug-and-play Azure integrations.</text>
+<text x="776" y="250" font-size="52" font-weight="700" letter-spacing="-1.5" fill="#b794f6">43–67%</text>
+<text x="776" y="278" font-size="16" fill="#8b8b96">faster delivery across 4+ apps</text>
+<rect x="776" y="314" width="78" height="28" rx="14.0" fill="#14141a" stroke="#2a2a33"/><circle cx="791" cy="328.0" r="3.5" fill="#b794f6"/><text class="m" x="803" y="332.725" font-size="13.5" fill="#c8c8d0">React</text><rect x="862" y="314" width="95" height="28" rx="14.0" fill="#14141a" stroke="#2a2a33"/><circle cx="877" cy="328.0" r="3.5" fill="#b794f6"/><text class="m" x="889" y="332.725" font-size="13.5" fill="#c8c8d0">Next.js</text><rect x="965" y="314" width="162" height="28" rx="14.0" fill="#14141a" stroke="#2a2a33"/><circle cx="980" cy="328.0" r="3.5" fill="#b794f6"/><text class="m" x="992" y="332.725" font-size="13.5" fill="#c8c8d0">Azure Functions</text><rect x="776" y="350" width="111" height="28" rx="14.0" fill="#14141a" stroke="#2a2a33"/><circle cx="791" cy="364.0" r="3.5" fill="#b794f6"/><text class="m" x="803" y="368.725" font-size="13.5" fill="#c8c8d0">Cosmos DB</text>
+</g>
+<g class="rise" style="animation-delay:0.20s">
+<rect x="0.5" y="432.5" width="383" height="407" rx="26" fill="#0e0e11" stroke="#25252c"/>
+<rect x="0.5" y="432.5" width="383" height="407" rx="26" fill="url(#p2)"/>
+<rect x="26" y="433" width="332" height="1" fill="url(#edge)"/>
+<rect x="32" y="462" width="152" height="28" rx="14" fill="#34d399" fill-opacity=".10" stroke="#34d399" stroke-opacity=".35"/>
+<circle cx="47" cy="476" r="3.5" fill="#34d399"/>
+<text class="m" x="60" y="480.5" font-size="12.5" letter-spacing="1.4" fill="#34d399">AUTOMATION</text>
+<text x="32" y="540" font-size="30" font-weight="700" letter-spacing="-.6" fill="#fafafa">Client Onboarding</text>
+<text x="32" y="578" font-size="16.5" fill="#8b8b96">End-to-end insurance client setup,</text>
+<text x="32" y="603" font-size="16.5" fill="#8b8b96">owned from architecture to prod.</text>
+<text x="32" y="682" font-size="52" font-weight="700" letter-spacing="-1.5" fill="#34d399">30 min</text>
+<text x="32" y="710" font-size="16" fill="#8b8b96">down from 7–8 months</text>
+<rect x="32" y="746" width="95" height="28" rx="14.0" fill="#14141a" stroke="#2a2a33"/><circle cx="47" cy="760.0" r="3.5" fill="#34d399"/><text class="m" x="59" y="764.725" font-size="13.5" fill="#c8c8d0">Node.js</text><rect x="135" y="746" width="162" height="28" rx="14.0" fill="#14141a" stroke="#2a2a33"/><circle cx="150" cy="760.0" r="3.5" fill="#34d399"/><text class="m" x="162" y="764.725" font-size="13.5" fill="#c8c8d0">Azure Functions</text><rect x="32" y="782" width="111" height="28" rx="14.0" fill="#14141a" stroke="#2a2a33"/><circle cx="47" cy="796.0" r="3.5" fill="#34d399"/><text class="m" x="59" y="800.725" font-size="13.5" fill="#c8c8d0">Cosmos DB</text>
+</g>
+<g class="rise" style="animation-delay:0.30s">
+<rect x="408.5" y="432.5" width="383" height="407" rx="26" fill="#0e0e11" stroke="#25252c"/>
+<rect x="408.5" y="432.5" width="383" height="407" rx="26" fill="url(#p3)"/>
+<rect x="434" y="433" width="332" height="1" fill="url(#edge)"/>
+<rect x="440" y="462" width="142" height="28" rx="14" fill="#fbbf24" fill-opacity=".10" stroke="#fbbf24" stroke-opacity=".35"/>
+<circle cx="455" cy="476" r="3.5" fill="#fbbf24"/>
+<text class="m" x="468" y="480.5" font-size="12.5" letter-spacing="1.4" fill="#fbbf24">ANALYTICS</text>
+<text x="440" y="540" font-size="30" font-weight="700" letter-spacing="-.6" fill="#fafafa">Customer Scorecard</text>
+<text x="440" y="578" font-size="16.5" fill="#8b8b96">Full-stack analytics platform,</text>
+<text x="440" y="603" font-size="16.5" fill="#8b8b96">iterated live with stakeholders.</text>
+<text x="440" y="682" font-size="52" font-weight="700" letter-spacing="-1.5" fill="#fbbf24">4 weeks</text>
+<text x="440" y="710" font-size="16" fill="#8b8b96">to ship · drove contract decisions</text>
+<rect x="440" y="746" width="95" height="28" rx="14.0" fill="#14141a" stroke="#2a2a33"/><circle cx="455" cy="760.0" r="3.5" fill="#fbbf24"/><text class="m" x="467" y="764.725" font-size="13.5" fill="#c8c8d0">Next.js</text><rect x="543" y="746" width="111" height="28" rx="14.0" fill="#14141a" stroke="#2a2a33"/><circle cx="558" cy="760.0" r="3.5" fill="#fbbf24"/><text class="m" x="570" y="764.725" font-size="13.5" fill="#c8c8d0">Azure SQL</text><rect x="662" y="746" width="78" height="28" rx="14.0" fill="#14141a" stroke="#2a2a33"/><circle cx="677" cy="760.0" r="3.5" fill="#fbbf24"/><text class="m" x="689" y="764.725" font-size="13.5" fill="#c8c8d0">MySQL</text><rect x="440" y="782" width="95" height="28" rx="14.0" fill="#14141a" stroke="#2a2a33"/><circle cx="455" cy="796.0" r="3.5" fill="#fbbf24"/><text class="m" x="467" y="800.725" font-size="13.5" fill="#c8c8d0">Synapse</text>
+</g>
+<g class="rise" style="animation-delay:0.40s">
+<rect x="816.5" y="432.5" width="383" height="407" rx="26" fill="#0e0e11" stroke="#25252c"/>
+<rect x="816.5" y="432.5" width="383" height="407" rx="26" fill="url(#p4)"/>
+<rect x="842" y="433" width="332" height="1" fill="url(#edge)"/>
+<rect x="848" y="462" width="180" height="28" rx="14" fill="#fb7185" fill-opacity=".10" stroke="#fb7185" stroke-opacity=".35"/>
+<circle cx="863" cy="476" r="3.5" fill="#fb7185"/>
+<text class="m" x="876" y="480.5" font-size="12.5" letter-spacing="1.4" fill="#fb7185">MICROSERVICES</text>
+<text x="848" y="540" font-size="30" font-weight="700" letter-spacing="-.6" fill="#fafafa">Foodie</text>
+<text x="848" y="578" font-size="16.5" fill="#8b8b96">Food ordering portal with async,</text>
+<text x="848" y="603" font-size="16.5" fill="#8b8b96">event-driven order processing.</text>
+<text x="848" y="682" font-size="52" font-weight="700" letter-spacing="-1.5" fill="#fb7185">Prod</text>
+<text x="848" y="710" font-size="16" fill="#8b8b96">full production deployment</text>
+<rect x="848" y="746" width="95" height="28" rx="14.0" fill="#14141a" stroke="#2a2a33"/><circle cx="863" cy="760.0" r="3.5" fill="#fb7185"/><text class="m" x="875" y="764.725" font-size="13.5" fill="#c8c8d0">Angular</text><rect x="951" y="746" width="128" height="28" rx="14.0" fill="#14141a" stroke="#2a2a33"/><circle cx="966" cy="760.0" r="3.5" fill="#fb7185"/><text class="m" x="978" y="764.725" font-size="13.5" fill="#c8c8d0">Spring Boot</text><rect x="848" y="782" width="103" height="28" rx="14.0" fill="#14141a" stroke="#2a2a33"/><circle cx="863" cy="796.0" r="3.5" fill="#fb7185"/><text class="m" x="875" y="800.725" font-size="13.5" fill="#c8c8d0">RabbitMQ</text><rect x="959" y="782" width="86" height="28" rx="14.0" fill="#14141a" stroke="#2a2a33"/><circle cx="974" cy="796.0" r="3.5" fill="#fb7185"/><text class="m" x="986" y="800.725" font-size="13.5" fill="#c8c8d0">Docker</text>
+</g>
+</svg>
