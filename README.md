@@ -1,48 +1,47 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:16213e&height=220&section=header&text=Jatin%20Sharma%20%F0%9F%91%8B&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20%2B%20Product%20Engineer&descAlignY=62&descSize=20&descColor=a0c4ff&animation=fadeIn" width="100%" />
-
+  <img src="./assets/hero.svg" alt="Jatin Sharma — Full Stack + Product Engineer" width="100%" />
 </div>
+
+<p align="center">
+  <a href="https://linkedin.com/in/raghav1924"><img src="https://img.shields.io/badge/LinkedIn-raghav1924-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0f0f12" alt="LinkedIn" /></a>
+  <a href="https://raghav1924.netlify.app"><img src="https://img.shields.io/badge/Portfolio-jatinsharma.in-00C7B7?style=flat-square&logo=netlify&logoColor=white&labelColor=0f0f12" alt="Portfolio" /></a>
+  <a href="https://leetcode.com/raghav1924"><img src="https://img.shields.io/badge/LeetCode-raghav1924-FFA116?style=flat-square&logo=leetcode&logoColor=FFA116&labelColor=0f0f12" alt="LeetCode" /></a>
+  <a href="https://github.com/raghav1924"><img src="https://img.shields.io/badge/GitHub-raghav1924-8b8b96?style=flat-square&logo=github&logoColor=white&labelColor=0f0f12" alt="GitHub" /></a>
+  <a href="mailto:raghavjatin245@gmail.com"><img src="https://img.shields.io/badge/Email-raghavjatin245@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=0f0f12" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=raghav1924&label=Views&color=8ab4ff&style=flat-square&labelColor=0f0f12" alt="Profile views" />
+</p>
 
 <br/>
 
-<div align="center">
+<img src="./assets/metrics.svg" alt="~3 years experience · 25+ projects · −68% manual effort · 7–8 months to 30 minutes" width="100%" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raghav1924)
-[![Portfolio](https://img.shields.io/badge/Portfolio-jatinsharma.in-%23F5C518.svg?style=for-the-badge&logo=vercel&logoColor=black)](https://raghav1924.netlify.app)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/raghav1924)
-[![GitHub](https://img.shields.io/badge/GitHub-raghav1924-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raghav1924)
-[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raghavjatin245@gmail.com)
+<br/><br/>
 
-</div>
+<img src="./assets/s-about.svg" alt="01 / About" width="100%" />
 
-<br/>
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td valign="middle" width="55%" style="border:none;">
 
----
+- 🌱 Grinding **DSA (NeetCode 150) in Java** and building with **Azure OpenAI**
+- 💬 Ask me about **React, Next.js, TypeScript, Node.js, GraphQL, Azure, Micro-frontends, Spring Boot**
+- 🎯 Open to **SDE-2 / Senior FSE** — remote-global, visa sponsorship (🇺🇸 🇬🇧 🇨🇦 🇦🇺)
+- 📫 Reach me at **raghavjatin245@gmail.com**
+- ⚡ Fun fact: **went 0 → production in 6 weeks. Twice.**
 
-<div align="center">
-
-## 🙋 About Me
-
-</div>
-
-<br/>
-
-<div align="center">
-
-| 🏅 Experience | 🗂️ Projects | 📍 Location |
-|:---:|:---:|:---:|
-| **~3 Years** | **25+ Projects** | **Mumbai, India 🇮🇳** |
-
-</div>
-
-<br/>
+</td>
+<td valign="middle" width="45%" style="border:none;" align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding animation" width="100%" />
+</td>
+</tr>
+</table>
 
 > I'm a **Full Stack Engineer** focused on product systems and scalable architectures — building high-performance applications, APIs, and cloud-native systems using JavaScript, TypeScript, Node.js, GraphQL, and Azure.
 >
 > I operate with a **product engineering mindset** — working across serverless architectures, APIs, and cloud systems, while contributing to deployment and DevOps workflows to ship reliable, production-ready solutions.
 
-<br/>
+<details>
+<summary><b>▸ Press to expand: <code>const jatin = {…}</code></b></summary>
 
 ```ts
 const jatin = {
@@ -57,161 +56,49 @@ const jatin = {
 };
 ```
 
----
+</details>
 
-## 🚀 What I've Shipped
+<br/>
 
-<table>
-  <thead>
-    <tr>
-      <th align="left">Project</th>
-      <th align="left">What it does</th>
-      <th align="left">Stack</th>
-      <th align="left">Impact</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>DevBRD 🤖</b></td>
-      <td>AI tool — converts BRDs (PDF/Excel/DOCX/images) into working schemas + UI components</td>
-      <td>Azure OpenAI · GraphQL · Next.js · Node.js</td>
-      <td>⬇️ Manual effort <b>−68%</b> · embedded in dev onboarding</td>
-    </tr>
-    <tr>
-      <td><b>Nexus 🧩</b></td>
-      <td>Internal micro-frontend component library with plug-and-play Azure integrations</td>
-      <td>React · Next.js · Azure Functions · Cosmos DB</td>
-      <td>⚡ Feature delivery <b>43–67% faster</b> across 4+ apps</td>
-    </tr>
-    <tr>
-      <td><b>Client Onboarding System 🏗️</b></td>
-      <td>Automated end-to-end insurance client setup — owned architecture to prod deployment</td>
-      <td>Node.js · Azure Functions · Cosmos DB</td>
-      <td>⏱️ <b>7–8 months → 30 minutes</b></td>
-    </tr>
-    <tr>
-      <td><b>Customer Scorecard 📊</b></td>
-      <td>Full-stack analytics platform — shipped in 4 weeks with live stakeholder iterations</td>
-      <td>Next.js · Azure SQL · MySQL · Azure Synapse</td>
-      <td>📋 Drove real contract decisions</td>
-    </tr>
-    <tr>
-      <td><b>Foodie 🍕</b></td>
-      <td>Microservices food ordering portal with async event-driven order processing</td>
-      <td>Angular · Spring Boot · RabbitMQ · Docker</td>
-      <td>🎓 Full prod deployment</td>
-    </tr>
-  </tbody>
-</table>
+<img src="./assets/s-shipped.svg" alt="02 / What I've shipped" width="100%" />
 
----
+<img src="./assets/projects.svg" alt="Projects: DevBRD, Nexus, Client Onboarding, Customer Scorecard, Foodie" width="100%" />
 
-## 🔧 Tech Stack
+<br/>
 
-<div align="center">
+<img src="./assets/s-stack.svg" alt="03 / Tech stack" width="100%" />
 
-#### Frontend
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat-square&logo=typescript&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=flat-square&logo=redux&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white)
+<img src="./assets/stack.svg" alt="Tech stack: frontend, backend, cloud, data, languages, AI" width="100%" />
 
-#### Backend & APIs
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=nodedotjs&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-%23E10098.svg?style=flat-square&logo=graphql&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat-square&logo=springboot&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-%23009688.svg?style=flat-square&logo=fastapi&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-%23000000.svg?style=flat-square&logo=jsonwebtokens&logoColor=white)
+<br/>
 
-#### Cloud & DevOps
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-%230078D4.svg?style=flat-square&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat-square&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?style=flat-square&logo=githubactions&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-%230078D4.svg?style=flat-square&logo=azuredevops&logoColor=white)
+<img src="./assets/s-activity.svg" alt="04 / Activity" width="100%" />
 
-#### Databases
-![CosmosDB](https://img.shields.io/badge/Cosmos%20DB-%230078D4.svg?style=flat-square&logo=microsoftazure&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white)
+<p align="center">
+  <img height="190" src="https://github-readme-stats.vercel.app/api?username=raghav1924&show_icons=true&count_private=true&include_all_commits=true&bg_color=09090b&title_color=8ab4ff&icon_color=b794f6&text_color=c8c8d0&border_color=25252c&border_radius=20" alt="GitHub stats" />
+  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghav1924&layout=compact&langs_count=8&bg_color=09090b&title_color=8ab4ff&text_color=c8c8d0&border_color=25252c&border_radius=20" alt="Top languages" />
+</p>
 
-#### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=flat-square&logo=postgresql&logoColor=white)
+<p align="center">
+  <img width="92%" src="https://github-readme-streak-stats.herokuapp.com/?user=raghav1924&background=09090b&border=25252c&stroke=25252c&ring=8ab4ff&fire=b794f6&currStreakNum=fafafa&sideNums=fafafa&currStreakLabel=8ab4ff&sideLabels=c8c8d0&dates=8b8b96&border_radius=20" alt="Streak stats" />
+</p>
 
-#### AI & LLMs
-![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-%230078D4.svg?style=flat-square&logo=openai&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-%23000000.svg?style=flat-square&logo=github&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-%234E9BCD.svg?style=flat-square&logo=sonarqube&logoColor=white)
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=raghav1924&bg_color=09090b&color=8ab4ff&line=b794f6&point=ffffff&area=true&area_color=8ab4ff&hide_border=true&height=300" alt="Contribution graph" />
+</p>
 
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=raghav1924&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghav1924&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117" />
-</div>
-
-<div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=raghav1924&theme=tokyonight&hide_border=true&background=0d1117&ring=a0c4ff&fire=F5C518&currStreakLabel=a0c4ff" />
-</div>
-
----
-
-## 🧩 LeetCode
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/raghav1924?theme=dark&font=Karma&ext=contest&hide_border=true" />
-</div>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/raghav1924?theme=dark&ext=contest&hide_border=true" alt="LeetCode stats" />
+</p>
 
 > 📌 Grinding **NeetCode 150** — Arrays · Trees · Graphs · DP &nbsp;|&nbsp; Language: **Java**
 
----
+<br/>
 
-## 🎓 Certifications
+<img src="./assets/s-certs.svg" alt="05 / Certifications" width="100%" />
 
-<div align="center">
+<img src="./assets/certs.svg" alt="Certifications: Azure Essentials, AZ-900 prep, HackerRank Java and SQL" width="100%" />
 
-| Certification | Issuer |
-|:---|:---|
-| 🏅 Microsoft Azure Essentials Professional Certificate | Microsoft × LinkedIn |
-| 🏅 Azure Fundamentals AZ-900 Cert Prep | Microsoft Press × LinkedIn |
-| 🏅 Java (Basic) | HackerRank |
-| 🏅 SQL (Basic) | HackerRank |
+<br/>
 
-</div>
-
----
-
-## 🌐 Find Me Around the Web
-
-<div align="center">
-
-| Platform | Link |
-|:---:|:---:|
-| 💼 Portfolio | [jatinsharma.in](https://raghav1924.netlify.app) |
-| 🔗 LinkedIn | [linkedin.com/in/raghav1924](https://linkedin.com/in/raghav1924) |
-| 🧩 LeetCode | [leetcode.com/raghav1924](https://leetcode.com/raghav1924) |
-| 🐙 GitHub | [github.com/raghav1924](https://github.com/raghav1924) |
-| 📬 Email | [raghavjatin245@gmail.com](mailto:raghavjatin245@gmail.com) |
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d0d0d&height=120&section=footer&fontColor=ffffff" width="100%" />
-
-*"Ship it. Learn from it. Scale it."* 🚀
-
-![Profile Views](https://komarev.com/ghpvc/?username=raghav1924&color=a0c4ff&style=flat-square&label=Profile+Views)
-
-</div>
+<img src="./assets/footer.svg" alt="Ship it. Learn from it. Scale it." width="100%" />
