@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/hero.svg" alt="Jatin Sharma — Full Stack + Product Engineer" width="100%" />
+  <img src="./assets/hero.svg" alt="Jatin Sharma — Full Stack Software Engineer" width="100%" />
 </div>
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 <br/>
 
-<img src="./assets/metrics.svg" alt="3+ years experience · 7–8 months to 30 minutes onboarding · −68% manual effort · 40–70% faster feature delivery" width="100%" />
+<img src="./assets/metrics.svg" alt="3+ years experience · 7–8 months to 30 minutes onboarding · −70% manual effort · 40–70% faster feature delivery" width="100%" />
 
 <br/><br/>
 
@@ -31,10 +31,11 @@
 <tr>
 <td valign="middle" width="58%" style="border:none;">
 
-- 🔭 **Now:** Next.js 16, AI-assisted tooling and serverless on Azure
+- 🔭 **Now:** Building hospitality & AI tooling platforms with Next.js, Node.js and Azure
 - 🧩 **DSA:** grinding **NeetCode 150 in Java**
-- 💼 **Before:** Cogitate Technology Solutions — cut client onboarding from **7–8 months to minutes**
+- 💼 **Before:** Cogitate Technology Solutions (Mumbai) — cut client onboarding from **7–8 months to minutes**
 - 🎯 **Open to:** SDE-2 / Senior Full Stack / Product Engineer — remote-global, visa sponsorship (🇺🇸 🇬🇧 🇨🇦 🇦🇺)
+- 🎓 **Education:** PG Full Stack Engineering · NIIT StackRoute | B.Tech · AKTU
 - ⏱️ **Availability:** immediate joiner
 - ⚡ **Fun fact:** went 0 → production in 6 weeks. Twice.
 
@@ -45,22 +46,31 @@
 </tr>
 </table>
 
-> I'm a **Full Stack & Product Engineer** building scalable, cloud-native web systems, event-driven APIs and reusable UI architectures with **React, Next.js, Node.js, TypeScript and Microsoft Azure**.
+> I'm a **Full Stack Software Engineer** with **3+ years of enterprise experience** building scalable, cloud-native web systems, event-driven APIs and reusable UI architectures with **React.js, Next.js, Node.js, TypeScript and Microsoft Azure**.
 >
-> I work with a **product engineering mindset** — across serverless architectures, APIs and cloud systems, contributing to deployment and DevOps workflows to ship reliable, production-ready software.
+> I work with a **product engineering mindset** — across serverless architectures, REST/GraphQL APIs, authentication workflows and cloud systems, contributing to CI/CD and DevOps workflows to ship reliable, production-ready software.
 
 <details>
 <summary><b>▸ Press to expand: <code>const jatin = {…}</code></b></summary>
 
 ```ts
 const jatin = {
-  title        : "Full Stack + Product Engineer",
-  location     : "Mumbai / Gurugram, India 🇮🇳",
-  experience   : "3+ years",
-  stack        : ["React", "Next.js", "TypeScript", "Node.js", "GraphQL", "Azure"],
-  domains      : ["Enterprise SaaS", "Insurance Tech", "AI Tooling", "Micro-Frontends"],
+  title        : "Full Stack Software Engineer",
+  location     : "Mumbai, India 🇮🇳",
+  experience   : "3+ years (Enterprise SaaS & Cloud)",
+  languages    : ["JavaScript", "TypeScript", "Java", "Python", "SQL"],
+  stack        : ["React.js", "Next.js", "Node.js", "Express.js", "GraphQL", "Spring Boot"],
+  cloud        : ["Azure Functions", "Azure Cosmos DB", "Azure Blob", "Azure SQL", "Docker", "Kubernetes (AKS)"],
+  domains      : ["Enterprise SaaS", "InsurTech", "AI Tooling", "Micro-Frontends", "Hospitality Tech"],
+  keyMetrics   : {
+    clientOnboarding : "7–8 months → <30 mins  (−99%)",
+    featureDelivery  : "40–70% faster via reusable UI systems",
+    docThroughput    : "+30% policy generation efficiency",
+    brdAutomation    : "~70% less manual engineering effort",
+  },
   openTo       : ["SDE-2", "Senior FSE", "Product Engineer", "Remote-Global", "Visa Sponsorship"],
   targets      : ["🇺🇸 US", "🇬🇧 UK", "🇨🇦 Canada", "🇦🇺 Australia"],
+  education    : ["PG Full Stack Engineering — NIIT StackRoute (2023)", "B.Tech Chemical Engg — AKTU (2022)"],
   availability : "Immediate joiner",
   funFact      : "Went 0 → production in 6 weeks. Twice.",
 };
@@ -72,7 +82,7 @@ const jatin = {
 
 <img src="./assets/s-shipped.svg" alt="02 / Engineering wins" width="100%" />
 
-<img src="./assets/projects.svg" alt="Engineering wins: DevBRD, Nexus, Client Onboarding, Document Processing, Customer Scorecard" width="100%" />
+<img src="./assets/projects.svg" alt="Engineering wins: BRD Automation, Client Onboarding, Document Processing, Customer Scorecard, Foodie" width="100%" />
 
 <br/>
 
@@ -90,7 +100,7 @@ const jatin = {
 
 <img src="./assets/s-stack.svg" alt="04 / Tech stack" width="100%" />
 
-<img src="./assets/stack.svg" alt="Tech stack: frontend, backend, cloud, data, languages, AI tooling" width="100%" />
+<img src="./assets/stack.svg" alt="Tech stack: JavaScript · TypeScript · Java · Python · SQL | React.js · Next.js · Redux · Angular | Node.js · Express.js · Spring Boot · GraphQL · REST | Azure · Docker · Kubernetes · RabbitMQ · Azure OpenAI" width="100%" />
 
 <br/>
 
